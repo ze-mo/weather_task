@@ -7,6 +7,6 @@ Small program for requesting weather information from the OpenWeather API.
  - To use your key, you only need to set it up in the .env file
 
 ## Task 2
-GUI application for the weather program from Task 1.
+GUI for the weather program from Task 1.
  - To open the app, run the weather_gui_app.py script
  - To generate results, click the **API KEY** button and you'll be prompted for your key
